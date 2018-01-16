@@ -1,5 +1,5 @@
-# react-native-datepicker-index.js
-
+## react-native-datepicker-index.js
+```
 import React, {Component} from 'react';
 import {
   View,
@@ -449,3 +449,4 @@ DatePicker.propTypes = {
 };
 
 export default DatePicker;
+```
